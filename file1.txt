@@ -1,2 +1,2 @@
 1
-this file has changed on master
+this line has been resolved
